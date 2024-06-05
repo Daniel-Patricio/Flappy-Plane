@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_controle","order":3,"path":"objects/obj_controle/obj_controle.yy",},
+    {"name":"obj_inicio","order":6,"path":"objects/obj_inicio/obj_inicio.yy",},
+    {"name":"obj_lvl","order":4,"path":"objects/obj_lvl/obj_lvl.yy",},
+    {"name":"obj_montanha_baixo","order":2,"path":"objects/obj_montanha_baixo/obj_montanha_baixo.yy",},
+    {"name":"obj_montanha_cima","order":1,"path":"objects/obj_montanha_cima/obj_montanha_cima.yy",},
+    {"name":"obj_puff","order":5,"path":"objects/obj_puff/obj_puff.yy",},
+    {"name":"rm_inicial","order":1,"path":"rooms/rm_inicial/rm_inicial.yy",},
+    {"name":"snd_lvl_up","order":1,"path":"sounds/snd_lvl_up/snd_lvl_up.yy",},
+    {"name":"spr_chao","order":5,"path":"sprites/spr_chao/spr_chao.yy",},
+    {"name":"spr_fundo","order":3,"path":"sprites/spr_fundo/spr_fundo.yy",},
+    {"name":"spr_iniciar","order":7,"path":"sprites/spr_iniciar/spr_iniciar.yy",},
+    {"name":"spr_lvl","order":4,"path":"sprites/spr_lvl/spr_lvl.yy",},
+    {"name":"spr_montanha_baixo","order":2,"path":"sprites/spr_montanha_baixo/spr_montanha_baixo.yy",},
+    {"name":"spr_montanha_cima","order":1,"path":"sprites/spr_montanha_cima/spr_montanha_cima.yy",},
+    {"name":"spr_puff","order":6,"path":"sprites/spr_puff/spr_puff.yy",},
+  ],
+}
